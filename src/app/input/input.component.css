@@ -1,0 +1,16 @@
+img{
+  background: none;
+}
+
+#addon{
+  margin: 10px;
+  width: 100px;
+}
+
+.form-control{
+  width:50px;
+}
+
+button{
+  margin: 20px;
+}
