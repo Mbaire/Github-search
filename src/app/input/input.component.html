@@ -3,8 +3,8 @@
 
 <form (submit)="search()">
   <div  >
-    <label for="username">UserName</label>
-    <input type="text" name="username" placeholder="username" [(ngModel)]='username' >
+    <label for="username">Username</label>
+    <input type="text" name="username" placeholder="enter github username" [(ngModel)]='username' >
     <button class="btn btn-primary" type="submit">Search</button>
   </div>
   
@@ -21,3 +21,12 @@
 </div>
 
 </div>
+<style>
+  label{
+    font-size: 900;
+    color: rgb(4, 0, 255);
+  }
+  p{
+    color: blue;
+  }
+</style>
