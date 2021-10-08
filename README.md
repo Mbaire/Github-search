@@ -7,7 +7,7 @@ Mary Miringu
 This is an Angular CLI application that allows a user to enter a GitHub username into a form, search for it, and see names and descriptions of that particular person's public repositories.
 
 ## Live Page 
-This is the live link to the project: <a href=""> Github-search</a>
+This is the live link to the project: <a href="https://mbaire.github.io/Github-search/"> Github-search</a>
 ## User stories
 Search Users -search for users on git-hub based on their usernames.
 Search Repositories -search for repositories on git-hub based on their authors name.
